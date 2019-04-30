@@ -1,6 +1,9 @@
 # flutter_dragabbles
 
-A new Flutter application.
+A new Flutter application Trying Flutter Draggable and DragTarget widgets.
+
+<img src=https://github.com/wmfadel/Flutter-Dragables/blob/master/screenshots/untitled2.gif width="400"/>
+
 
 ## Getting Started
 
